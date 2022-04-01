@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitimi'nde oluştu
 
 
 ```python
-(https://github.com/sevilaybezir/kodluyoruzilkrepo.git)
+https://github.com/sevilaybezir/kodluyoruzilkrepo
 ````
 
 ## Usage
