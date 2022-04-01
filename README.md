@@ -26,5 +26,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[PATİKA HESABI](https://app.patika.dev/sevilaybezir)
+
+
 <!-- ![Kodluyoruz Gorsel](/img/kodluyoruz_logo.jpg) -->
 ![Kodluyoruz Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+
